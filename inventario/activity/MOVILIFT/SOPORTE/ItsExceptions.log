@@ -1,0 +1,10 @@
+20170530-12-36-24 | La base de datos MOVILIFT no existe, verifique la existencia de la misma
+30/05/17 12:40:19 | 
+30/05/17 12:40:19 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 12:40:13, Cantidad: 2, Data: Array
+30/05/17 12:44:27 | An exception was raised on the server: No se pudo crear el diccionario de la clase ERP_ARTICULOS_APP
+30/05/17 13:31:15 | An exception was raised on the server: No se pudo crear el diccionario de la clase ERP_ARTICULOS_APP
+30/05/17 13:36:33 | An exception was raised on the server: No se pudo crear el diccionario de la clase ERP_ARTICULOS_APP
+30/05/17 13:43:13 | An exception was raised on the server: No se pudo crear el diccionario de la clase ERP_ARTICULOS_APP
+30/05/17 13:44:21 | An exception was raised on the server: No se pudo crear el diccionario de la clase ERP_ARTICULOS_APP
+30/05/17 14:29:53 | 
+30/05/17 14:29:53 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 14:29:46, Cantidad: 2, Data: Array

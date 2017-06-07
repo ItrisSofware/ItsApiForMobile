@@ -1,0 +1,51 @@
+20170104-18-17-14 | ItsLoginResult:0, session:{C3713FB8-A10A-47F8-BC83-82830A41AA79}
+04/01/17 18:20:34 | ItsLoginResult: 0, ItsGetDate: 2017/01/04 18:20:32, Cantidad: 24, Data: Array
+04/01/17 18:20:44 | ItsLoginResult: 0, ItsGetDate: 2017/01/04 18:20:43, Cantidad: 460, Data: Array
+04/01/17 18:20:52 | ItsLoginResult: 0, ItsGetDate: 2017/01/04 18:20:52, Cantidad: 460, Data: Array
+04/01/17 18:21:25 | ItsLoginResult: 0, ItsGetDate: 2017/01/04 18:21:24, Cantidad: 0, Data: 
+04/01/17 18:21:39 | ItsLoginResult: 0, ItsGetDate: 2017/01/04 18:21:38, Cantidad: 460, Data: Array
+05/01/17 07:08:05 | ItsLoginResult: 0, ItsGetDate: 2017/01/05 07:07:57, Cantidad: 254, Data: Array
+05/01/17 07:10:32 | ItsLoginResult: 0, ItsGetDate: 2017/01/05 07:10:30, Cantidad: 24, Data: Array
+05/01/17 07:10:33 | ItsLoginResult: 0, ItsGetDate: 2017/01/05 07:10:32, Cantidad: 24, Data: Array
+04/05/17 12:09:56 | ItsLoginResult:0, session:{02D3F411-0062-4BA1-BAF2-4D311410AF72}
+04/05/17 12:20:12 | ItsLoginResult:0, session:{83E5A0EA-158A-4423-A684-12C5DFB121AD}
+04/05/17 12:24:41 | ItsLoginResult: 0, ItsGetDate: 2017/05/04 12:24:41, Cantidad: 460, Data: Array
+04/05/17 14:05:35 | ItsLoginResult: 0, ItsGetDate: 2017/05/04 14:05:34, Cantidad: 0, Data: 
+04/05/17 14:05:45 | ItsLoginResult: 0, ItsGetDate: 2017/05/04 14:05:44, Cantidad: 460, Data: Array
+04/05/17 14:10:15 | ItsLoginResult:0, session:{870534A3-9E5C-40C8-ABC9-AAA1B147CB61}
+04/05/17 14:31:11 | ItsLoginResult: 0, ItsGetDate: 2017/05/04 14:31:09, Cantidad: 460, Data: Array
+25/05/17 00:56:49 | ItsLoginResult:0, session:{3BE58392-1482-4580-81CB-88B649F6ED92}
+25/05/17 04:14:58 | ItsLoginResult: 0, ItsGetDate: 2017/05/25 04:14:57, Cantidad: 460, Data: Array
+25/05/17 22:52:34 | ItsLoginResult: 0, ItsGetDate: 2017/05/25 22:52:33, Cantidad: 0, Data: 
+25/05/17 22:52:47 | ItsLoginResult: 0, ItsGetDate: 2017/05/25 22:52:46, Cantidad: 460, Data: Array
+25/05/17 23:24:54 | ItsLoginResult:0, session:{FB450C45-87EE-46DF-9A38-13AF74CF7759}
+25/05/17 23:32:03 | valor: 0, contenido: [{"Datos":{"id":1,"articulo":"0000013","deposito":"1","cantidad":"23","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}},{"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"11","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}},{"Datos":{"id":3,"articulo":"0000014","deposito":"1","cantidad":"67","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}}], cantidad: 3, fecha: 2017/05/25 23:31:45, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: demo, pass: demo, iderr: , CantidadOk: 3, OutPutJson: , InsertOK: Array, LogOut: 0
+26/05/17 09:43:07 | ItsLoginResult: 0, ItsGetDate: 2017/05/26 09:43:07, Cantidad: 0, Data: 
+26/05/17 09:43:23 | ItsLoginResult: 0, ItsGetDate: 2017/05/26 09:43:22, Cantidad: 460, Data: Array
+26/05/17 09:44:35 | valor: 0, contenido: [{"Datos":{"id":4,"articulo":"0000014","deposito":"1","cantidad":"10","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}},{"Datos":{"id":5,"articulo":"00001313","deposito":"1","cantidad":"22","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}}], cantidad: 2, fecha: 2017/05/26 09:44:33, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: demo, pass: demo, iderr: , CantidadOk: 2, OutPutJson: , InsertOK: Array, LogOut: 0
+28/05/17 21:48:15 | ItsLoginResult:, session:
+28/05/17 21:48:19 | ItsLoginResult:, session:
+28/05/17 21:50:04 | ItsLoginResult:0, session:{94C6C470-2E91-4F27-92DA-EF3633F40C03}
+28/05/17 21:50:40 | ItsLoginResult: 0, ItsGetDate: 2017/05/28 21:50:39, Cantidad: 460, Data: Array
+30/05/17 08:41:09 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 08:41:07, Cantidad: 229, Data: Array
+30/05/17 08:42:18 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 08:42:16, Cantidad: 229, Data: Array
+30/05/17 08:42:28 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 08:42:27, Cantidad: 229, Data: Array
+30/05/17 09:12:07 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:12:04, Cantidad: 254, Data: Array
+30/05/17 09:12:37 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:12:36, Cantidad: 254, Data: Array
+30/05/17 09:12:39 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:12:38, Cantidad: 229, Data: Array
+30/05/17 09:51:36 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:51:35, Cantidad: 229, Data: Array
+30/05/17 09:52:33 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:52:32, Cantidad: 229, Data: Array
+30/05/17 09:53:52 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:53:51, Cantidad: 229, Data: Array
+30/05/17 10:10:16 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 10:10:14, Cantidad: 24, Data: Array
+30/05/17 10:10:25 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 10:10:24, Cantidad: 229, Data: Array
+30/05/17 10:10:32 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 10:10:30, Cantidad: 254, Data: Array
+30/05/17 10:11:50 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 10:11:49, Cantidad: 229, Data: Array
+30/05/17 12:51:20 | ItsLoginResult:0, session:{704BA7A7-312D-4944-8173-1F02AAA71E75}
+30/05/17 12:55:46 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 12:55:45, Cantidad: 460, Data: Array
+30/05/17 12:59:45 | El artículo ya fue informado por la aplicación
+30/05/17 12:59:45 | valor: 0, contenido: [{"Datos":{"id":1,"articulo":"0000661","deposito":"1","cantidad":"10","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}},{"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"43","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}}], cantidad: 2, fecha: 2017/05/30 12:59:26, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: DEMO, pass: demo, iderr: {"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}, CantidadOk: 1, OutPutJson: Array, InsertOK: Array, LogOut: 0
+30/05/17 13:01:52 | El artículo ya fue informado por la aplicación
+30/05/17 13:01:52 | valor: 0, contenido: [{"Datos":{"id":1,"articulo":"0000661","deposito":"1","cantidad":"10","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}},{"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"43","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}}], cantidad: 2, fecha: 2017/05/30 13:01:50, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: DEMO, pass: demo, iderr: {"idError":{"id":"0000661","motivo":"El artículo ya fue informado por la aplicación}}, CantidadOk: 1, OutPutJson: Array, InsertOK: Array, LogOut: 0
+30/05/17 13:02:26 | El artículo ya fue informado por la aplicación
+30/05/17 13:02:26 | valor: 0, contenido: [{"Datos":{"id":1,"articulo":"0000661","deposito":"1","cantidad":"10","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}},{"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"43","ubicaciones":"","identificadores":"undefined","NumeroSerie":"undefined","fecha":20151209}}], cantidad: 2, fecha: 2017/05/30 13:02:23, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: DEMO, pass: demo, iderr: {"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}, CantidadOk: 1, OutPutJson: Array, InsertOK: Array, LogOut: 0
+30/05/17 13:03:44 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 13:03:43, Cantidad: 460, Data: Array

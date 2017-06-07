@@ -1,0 +1,9 @@
+16/10/16 22:43:32 | No se pudo conectar al servidor Win2008ITSLM
+16/10/16 22:43:41 | No se pudo conectar al servidor Win2008ITSLM
+16/10/16 22:44:22 | No se pudo conectar al servidor Win2008ITSLM
+16/10/16 22:44:45 | No se pudo conectar al servidor Win2008ITSLM
+16/10/16 22:45:35 | No se pudo conectar al servidor Win2008ITSLM
+16/10/16 22:46:12 | No se pudo conectar al servidor Win2008ITSLM
+17/10/16 10:04:37 | No se pudo acceder a ITS_LOGINUSR
+([DBNETLIB][ConnectionWrite (send()).]Error general de red. Consulte la documentación de la red)
+17/10/16 10:04:41 | An exception was raised on the server: [DBNETLIB][ConnectionWrite (send()).]Error general de red. Consulte la documentación de la red

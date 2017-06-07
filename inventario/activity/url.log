@@ -1,0 +1,21 @@
+ | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+10/10/16 03:35:25 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/01/17 18:17:06 | status : 200 | http://itris.no-ip.com:3000/ItsWs/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:09:52 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:10:43 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:12:15 | status : 200 | http://192.168.1.29:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:13:29 | status : 200 | http://192.168.1.29:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:17:12 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:18:33 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+04/05/17 12:20:09 | status : 200 | http://192.168.1.29:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+25/05/17 00:56:44 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+28/05/17 21:41:29 | status : 200 | http://Iserver.itris.com.ar:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+28/05/17 21:48:10 | status : 404 | http:///itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+28/05/17 21:50:07 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 12:36:18 | status : 200 | http://iserver.itris.com.ar:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 12:39:56 | status : 200 | http://iserver.itris.com.ar:3300/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 12:49:07 | status : 404 | http://itris.no-ip:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 12:49:19 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 12:51:12 | status : 200 | http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 14:28:51 | status : 200 | http://iserver.itris.com.ar:3300/ITSWS/ItsCliSvrWS.asmx?WSDL
+30/05/17 15:21:54 | status : 200 | http://iserver.itris.com.ar:3300/ITSWS/ItsCliSvrWS.asmx?WSDL

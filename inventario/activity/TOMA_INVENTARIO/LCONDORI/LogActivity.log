@@ -1,0 +1,147 @@
+20161010-03-38-21 | ItsLoginResult:0, session:{74DA729C-F8BC-4580-A00C-0C64DC593106}
+10/10/16 04:06:41 | ItsLoginResult: 0, ItsGetDate: 2016/10/10 04:06:40, Cantidad: 0, Data: 
+10/10/16 04:06:50 | ItsLoginResult: 0, ItsGetDate: 2016/10/10 04:06:49, Cantidad: 460, Data: Array
+10/10/16 04:08:08 | ItsLoginResult: 0, ItsGetDate: 2016/10/10 04:08:07, Cantidad: 460, Data: Array
+10/10/16 04:41:29 | valor: 0, contenido: [{"Datos":{"id":177,"articulo":"0000013","deposito":"1","cantidad":"5","fecha":20151209}},
+	            {"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"8","fecha":20151209}},
+				{"Datos":{"id":3,"articulo":"0000013","deposito":"1","cantidad":"6","fecha":20151209}},
+				{"Datos":{"id":4,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":5,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":6,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":7,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":8,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":9,"articulo":"0000013","deposito":"1","cantidad":"9","fecha":20151209}},
+				{"Datos":{"id":10,"articulo":"0000013","deposito":"1","cantidad":"6","fecha":20151209}},
+				{"Datos":{"id":11,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":12,"articulo":"0000013","deposito":"1","cantidad":"8","fecha":20151209}},
+				{"Datos":{"id":13,"articulo":"0000013","deposito":"1","cantidad":"77","fecha":20151209}},
+				{"Datos":{"id":14,"articulo":"0000013","deposito":"1","cantidad":"88","fecha":20151209}},
+				{"Datos":{"id":15,"articulo":"0002222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":16,"articulo":"0002222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":17,"articulo":"0022200222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":18,"articulo":"0022200222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":19,"articulo":"01050100","deposito":"1","cantidad":"33","fecha":20151209}},
+				{"Datos":{"id":20,"articulo":"01310340","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":21,"articulo":"01310340","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":22,"articulo":"01310340","deposito":"1","cantidad":"55","fecha":20151209}},
+				{"Datos":{"id":23,"articulo":"01310340","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":24,"articulo":"01310340","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":25,"articulo":"010540010400001","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":26,"articulo":"0000661","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":207,"articulo":"0000661","deposito":"1","cantidad":"33","fecha":20151209}},
+				{"Datos":{"id":2898,"articulo":"0000014","deposito":"1","cantidad":"77","fecha":20151209}},
+				{"Datos":{"id":299,"articulo":"0000661","deposito":"1","cantidad":"444","fecha":20151209}}], cantidad: 29, fecha: 2016/10/10 04:41:04, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: LCONDORI, pass: 123, iderr: {"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"010540010400001","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000661","motivo":"El campo 'Cantidad' debe contener un valor}}, CantidadOk: 17, OutPutJson: Array, InsertOK: Array, LogOut: 0
+10/10/16 04:34:48 | valor: 0, contenido: [{"Datos":{"id":177,"articulo":"0000013","deposito":"1","cantidad":"5","fecha":20151209}},
+	            {"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"8","fecha":20151209}},
+				{"Datos":{"id":3,"articulo":"0000013","deposito":"1","cantidad":"6","fecha":20151209}},
+				{"Datos":{"id":4,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":5,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":6,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":7,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":8,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":9,"articulo":"0000013","deposito":"1","cantidad":"9","fecha":20151209}},
+				{"Datos":{"id":10,"articulo":"0000013","deposito":"1","cantidad":"6","fecha":20151209}},
+				{"Datos":{"id":11,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":12,"articulo":"0000013","deposito":"1","cantidad":"8","fecha":20151209}},
+				{"Datos":{"id":13,"articulo":"0000013","deposito":"1","cantidad":"77","fecha":20151209}},
+				{"Datos":{"id":14,"articulo":"0000013","deposito":"1","cantidad":"88","fecha":20151209}},
+				{"Datos":{"id":15,"articulo":"0002222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":16,"articulo":"0002222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":17,"articulo":"0022200222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":18,"articulo":"0022200222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":19,"articulo":"01050100","deposito":"1","cantidad":"33","fecha":20151209}},
+				{"Datos":{"id":20,"articulo":"01310340","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":21,"articulo":"01310340","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":22,"articulo":"01310340","deposito":"1","cantidad":"55","fecha":20151209}},
+				{"Datos":{"id":23,"articulo":"01310340","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":24,"articulo":"01310340","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":25,"articulo":"010540010400001","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":26,"articulo":"0000661","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":207,"articulo":"0000661","deposito":"1","cantidad":"33","fecha":20151209}},
+				{"Datos":{"id":2898,"articulo":"0000014","deposito":"1","cantidad":"77","fecha":20151209}},
+				{"Datos":{"id":299,"articulo":"0000661","deposito":"1","cantidad":"444","fecha":20151209}}], cantidad: 29, fecha: 2016/10/10 04:47:31, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: LCONDORI, pass: 123, iderr: {"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0002222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0002222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0022200222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0022200222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"01050100","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"010540010400001","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000661","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000661","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000014","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000661","motivo":"El artículo ya fue informado por la aplicación}}, CantidadOk: , OutPutJson: Array, InsertOK: , LogOut: 0
+10/10/16 04:51:41 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:42 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:43 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:43 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:44 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:44 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:45 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:46 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:46 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:47 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:47 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:48 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:49 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:49 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:50 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:50 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:51 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:52 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:52 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:53 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:54 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:54 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:55 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:55 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:56 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:57 | El campo 'Cantidad' debe contener un valor
+10/10/16 04:51:57 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:58 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:59 | El artículo ya fue informado por la aplicación
+10/10/16 04:51:59 | valor: 0, contenido: [{"Datos":{"id":177,"articulo":"0000013","deposito":"1","cantidad":"5","fecha":20151209}},
+	            {"Datos":{"id":2,"articulo":"0000013","deposito":"1","cantidad":"8","fecha":20151209}},
+				{"Datos":{"id":3,"articulo":"0000013","deposito":"1","cantidad":"6","fecha":20151209}},
+				{"Datos":{"id":4,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":5,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":6,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":7,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":8,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":9,"articulo":"0000013","deposito":"1","cantidad":"9","fecha":20151209}},
+				{"Datos":{"id":10,"articulo":"0000013","deposito":"1","cantidad":"6","fecha":20151209}},
+				{"Datos":{"id":11,"articulo":"0000013","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":12,"articulo":"0000013","deposito":"1","cantidad":"8","fecha":20151209}},
+				{"Datos":{"id":13,"articulo":"0000013","deposito":"1","cantidad":"77","fecha":20151209}},
+				{"Datos":{"id":14,"articulo":"0000013","deposito":"1","cantidad":"88","fecha":20151209}},
+				{"Datos":{"id":15,"articulo":"0002222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":16,"articulo":"0002222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":17,"articulo":"0022200222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":18,"articulo":"0022200222","deposito":"1","cantidad":"1","fecha":20151209}},
+				{"Datos":{"id":19,"articulo":"01050100","deposito":"1","cantidad":"33","fecha":20151209}},
+				{"Datos":{"id":20,"articulo":"01310340","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":21,"articulo":"01310340","deposito":"1","cantidad":"null","fecha":20151209}},
+				{"Datos":{"id":22,"articulo":"01310340","deposito":"1","cantidad":"55","fecha":20151209}},
+				{"Datos":{"id":23,"articulo":"01310340","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":24,"articulo":"01310340","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":25,"articulo":"010540010400001","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":26,"articulo":"0000661","deposito":"1","cantidad":"","fecha":20151209}},
+				{"Datos":{"id":207,"articulo":"0000661","deposito":"1","cantidad":"33","fecha":20151209}},
+				{"Datos":{"id":2898,"articulo":"0000014","deposito":"1","cantidad":"77","fecha":20151209}},
+				{"Datos":{"id":299,"articulo":"0000661","deposito":"1","cantidad":"444","fecha":20151209}}], cantidad: 29, fecha: 2016/10/10 04:51:39, ws: http://itris.no-ip.com:3000/ITSWS/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: LCONDORI, pass: 123, iderr: {"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000013","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0002222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0002222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0022200222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0022200222","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"01050100","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"01310340","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"010540010400001","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000661","motivo":"El campo 'Cantidad' debe contener un valor}}{"idError":{"id":"0000661","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000014","motivo":"El artículo ya fue informado por la aplicación}}{"idError":{"id":"0000661","motivo":"El artículo ya fue informado por la aplicación}}, CantidadOk: , OutPutJson: Array, InsertOK: , LogOut: 0
+04/01/17 17:45:42 | ItsLoginResult:0, session:{25FC7062-8B04-4775-ABB3-620AA8833FDC}
+05/01/17 11:23:21 | ItsLoginResult: 0, ItsGetDate: 2017/01/05 11:23:19, Cantidad: 0, Data: 
+05/01/17 11:23:30 | ItsLoginResult: 0, ItsGetDate: 2017/01/05 11:23:29, Cantidad: 460, Data: Array
+25/05/17 23:30:03 | valor: 0, contenido: , cantidad: 0, fecha: 2017/05/25 23:29:59, ws: http://itris.no-ip.com:3000/ItsWs/ItsCliSvrWS.asmx?WSDL, db: TOMA_INVENTARIO, user: lcondori, pass: 123, iderr: , CantidadOk: , OutPutJson: , InsertOK: , LogOut: 0
+30/05/17 08:40:41 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 08:40:40, Cantidad: 229, Data: Array
+30/05/17 09:10:46 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:10:45, Cantidad: 229, Data: Array
+30/05/17 09:14:11 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:14:09, Cantidad: 229, Data: Array
+30/05/17 09:16:50 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:16:49, Cantidad: 229, Data: Array
+30/05/17 09:17:57 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:17:56, Cantidad: 229, Data: Array
+30/05/17 09:18:33 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:18:32, Cantidad: 229, Data: Array
+30/05/17 09:18:59 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:18:58, Cantidad: 229, Data: Array
+30/05/17 09:38:24 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:38:23, Cantidad: 229, Data: Array
+30/05/17 09:40:50 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:40:49, Cantidad: 229, Data: Array
+30/05/17 09:41:12 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:41:11, Cantidad: 229, Data: Array
+30/05/17 09:44:48 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:44:47, Cantidad: 229, Data: Array
+30/05/17 09:45:25 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:45:24, Cantidad: 229, Data: Array
+30/05/17 09:46:21 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:46:21, Cantidad: 229, Data: Array
+30/05/17 09:50:03 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:50:02, Cantidad: 229, Data: Array
+30/05/17 09:50:29 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:50:28, Cantidad: 229, Data: Array
+30/05/17 09:50:47 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:50:46, Cantidad: 229, Data: Array
+30/05/17 09:50:59 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:50:58, Cantidad: 229, Data: Array
+30/05/17 09:51:16 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:51:15, Cantidad: 229, Data: Array
+30/05/17 09:51:28 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:51:27, Cantidad: 229, Data: Array
+30/05/17 09:53:23 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:53:22, Cantidad: 229, Data: Array
+30/05/17 09:53:38 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 09:53:37, Cantidad: 229, Data: Array
+30/05/17 10:11:01 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 10:11:00, Cantidad: 229, Data: Array
+30/05/17 10:11:45 | ItsLoginResult: 0, ItsGetDate: 2017/05/30 10:11:44, Cantidad: 229, Data: Array
